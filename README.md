@@ -9,19 +9,19 @@ Data and code for paper titled [Fine-grained Category Discovery under Coarse-gra
 
 
 ## Contents
-[1. Data](##Data)
+[1. Data](#data)
 
-[2. Model](##Model)
+[2. Model](#model)
 
-[3. Requirements](##Requirements)
+[3. Requirements](#requirements)
 
-[4. Running](##Running)
+[4. Running](#running)
 
-[5. Results](##Results)
+[5. Results](#results)
 
-[6. Thanks](##Thanks)
+[6. Thanks](#thanks)
 
-[6. Citation](##Citation)
+[6. Citation](#citation)
 
 ## Data
 We performed experiments on three public datasets: [clinc](https://aclanthology.org/D19-1131/), [wos](https://arxiv.org/abs/1709.08267) and [hwu64](https://arxiv.org/abs/1903.05566), which have included in our repository in the data folder ' ./data '.
