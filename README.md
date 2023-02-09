@@ -63,10 +63,18 @@ Some code references the following repositories:
 ## Citation
 If our paper or code is helpful to you, please consider citing our paper:
 ```
-@article{an2022fine,
-  title={Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning},
-  author={An, Wenbin and Tian, Feng and Chen, Ping and Tang, Siliang and Zheng, Qinghua and Wang, QianYing},
-  journal={arXiv preprint arXiv:2210.07733},
-  year={2022}
+@inproceedings{an-etal-2022-fine,
+    title = "Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning",
+    author = "An, Wenbin  and
+      Tian, Feng  and
+      Chen, Ping  and
+      Tang, Siliang  and
+      Zheng, Qinghua  and
+      Wang, QianYing",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    pages = "1314--1323",
 }
 ```
